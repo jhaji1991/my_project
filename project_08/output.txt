@@ -1,0 +1,36 @@
+URL: https://www.w3schools.com/xml/xml_rss.asp
+Content:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>XML RSS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" property="og:title" content="W3Schools.com">
+<meta name="Keywords" content="HTML, Python, CSS, SQL, JavaScript, How to, PH...
+
+URL: https://www.w3schools.com/xml
+Content:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>XML Tutorial</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" property="og:title" content="W3Schools.com">
+<meta name="Keywords" content="HTML, Python, CSS, SQL, JavaScript, How t...
+
+URL: https://www.w3schools.com/html
+Content:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>HTML Tutorial</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" property="og:title" content="W3Schools.com">
+<meta name="Keywords" content="HTML, Python, CSS, SQL, JavaScript, How ...
+
